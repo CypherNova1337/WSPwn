@@ -1,0 +1,5 @@
+/wspwn
+/wspwn-*
+*.out
+*.test
+wspwn-memory.json
